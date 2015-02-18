@@ -15,7 +15,7 @@ The "SPScannerCaptureWindow" bundle is an all-in-one solution to scan documents 
 * Internal scanner functions are supported
 
 ## Quick start
-* Clone the repository
+* Clone the repository <code>git clone https://github.com/ckteebe/SPScannerCaptureWindow.git</code>
 * Open the workspace
 * Take a look at the example project
 
